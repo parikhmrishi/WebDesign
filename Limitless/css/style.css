@@ -8,6 +8,7 @@ html {
 
 button {
     background-color: #000;
+    border: 2px solid #000;
     color: #FFF;
     padding: 5px 10px;
 }
@@ -43,11 +44,11 @@ header, footer {
 
 #padtopbottom {
     background-color:#26405B;
-    padding: 2% 44.3%;
+    padding: 2% 0;
     
     color: #FFF;
     position: relative;
-    top: 1.5em;
+    bottom: 0em;
     right: 0.0em;
 }
 
@@ -83,7 +84,7 @@ header, footer {
 
 .pad2
 {
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     position: relative;
     bottom: 1em;
 }
