@@ -42,7 +42,7 @@ header, footer {
     
 }
 
-#padtopbottom {
+#footlink {
     background-color:#26405B;
     padding: 2% 0;
     
@@ -61,7 +61,7 @@ header, footer {
     padding-right: 0.2em;
 }
 
-.line {
+.inline {
     display: inline-block;
     padding: 0 5%;
 }
@@ -89,7 +89,7 @@ header, footer {
     bottom: 1em;
 }
 
-.moveup {
+.moveup9 {
     position: relative;
     bottom: 9em;
 }
